@@ -11,7 +11,7 @@ body {
 }
 
 .hub_principal {
-    margin-top: 2%;
+    margin-top: 0.5%;
     display: flex;
     justify-content: center;
 }
@@ -19,7 +19,7 @@ body {
 .hub {
     background: white;
     width: 30%;
-    height: 480px;
+    height: 450px;
     border-radius: 8px;
     box-shadow: 1px 1px 10px #00000029;
     text-align: center;
